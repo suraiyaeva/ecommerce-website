@@ -1,24 +1,40 @@
-E-Commerce Website: ShopWave
+#E-Commerce Website: ShopWave
 About the Project
+
 This repository contains the source code for ShopWave, a modern, feature-rich e-commerce platform built to provide a seamless online shopping experience. The project follows best practices for frontend and backend development using a variety of web technologies.
+
+
+
+
+
 Features
 Responsive Design: Ensures the website is user-friendly on all devices.
 User Authentication: Includes login and signup functionalities.
 Product Catalog: Displays products with categories.
 Shopping Cart: Allows users to add and manage items.
 Admin Dashboard: Enables product , categories and users management.
+
+
+
 Tech Stack
 Frontend
 React.js: For building interactive user interfaces.
 Tailwind CSS: For fast and responsive styling.
 Vite: For optimized build and development.
+
+
+
 Backend
 Node.js: As the runtime environment.
 Express.js: For handling server-side operations.
 MongoDB: For storing data in a NoSQL database.
 JWT: For secure user authentication.
+
+
+
 Installation
 Follow these steps to set up the project locally:
+
 
 Clone the repository:
 
