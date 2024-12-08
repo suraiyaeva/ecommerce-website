@@ -7,11 +7,16 @@ This repository contains the source code for ShopWave, a modern, feature-rich e-
 
 
 
-Features
+#Features
+
 Responsive Design: Ensures the website is user-friendly on all devices.
+
 User Authentication: Includes login and signup functionalities.
+
 Product Catalog: Displays products with categories.
+
 Shopping Cart: Allows users to add and manage items.
+
 Admin Dashboard: Enables product , categories and users management.
 
 
