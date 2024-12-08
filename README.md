@@ -47,7 +47,7 @@ cd Frontend
 npm run dev
 cd ../Backend
 npm start
-Access the application: Open your browser and navigate to http://localhost:3000.
+Access the application: Open your browser and navigate to http://localhost:4000.
 
 Usage
 Explore the shoppage to browse available products.
